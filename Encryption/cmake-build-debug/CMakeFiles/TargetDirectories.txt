@@ -1,0 +1,3 @@
+/Users/kaitlynarchambault/CLionProjects/assign4-Swift-Lemon/cmake-build-debug/CMakeFiles/ASSIGN4.dir
+/Users/kaitlynarchambault/CLionProjects/assign4-Swift-Lemon/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kaitlynarchambault/CLionProjects/assign4-Swift-Lemon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
